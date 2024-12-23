@@ -1,0 +1,14 @@
+{
+  "name": "changesets",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@changesets/cli": "^2.27.11"
+  }
+}
